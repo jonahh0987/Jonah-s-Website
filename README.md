@@ -1,7 +1,7 @@
 ## Welcome to GitHub Profile!
 ### My name is Jonah Huang!
 
-![Image](src)
+![Image](https://github.com/jonahh0987/finalwebsite1111/blob/master/8132807a805ff593c6a7d3d2c0f0d604.jpg?raw=true)
 
 ### Social Media
 1. Instagram @jhviper
